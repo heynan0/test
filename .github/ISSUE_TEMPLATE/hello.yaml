@@ -1,1 +1,11 @@
-[test](docs/wherever.md)
+name: Test
+description: ASDsaddssadsda
+title: "Title test"
+labels: ["bug"]
+
+body:
+  - type: markdown
+      attributes:
+        value: |
+          [test](docs/wherever.md)
+
