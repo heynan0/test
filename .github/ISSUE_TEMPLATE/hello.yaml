@@ -17,5 +17,5 @@ body:
   - type: markdown
     attributes:
       value: |
-        [test](docs/wherever.md)
+        [test](../blob/master/test.txt)
 
