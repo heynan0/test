@@ -4,6 +4,16 @@ title: "Title test"
 labels: ["bug"]
 
 body:
+  - type: textarea
+    id: approval
+    validations:
+      required: true
+    attributes:
+      label: sdasdadsadsadsa
+      description: |
+        adssdadsads
+      value: |
+        asddsadsasdads
   - type: markdown
     attributes:
       value: |
