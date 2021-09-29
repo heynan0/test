@@ -5,7 +5,7 @@ labels: ["bug"]
 
 body:
   - type: markdown
-      attributes:
-        value: |
-          [test](docs/wherever.md)
+    attributes:
+      value: |
+        [test](docs/wherever.md)
 
